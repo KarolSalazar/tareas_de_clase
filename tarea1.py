@@ -76,7 +76,7 @@ f = float(input("Ingrese la distancia (f): "))
 """
   Fórmula de la ecuación del espejo:
   (1/p) + (1/q) = 1/f
-  tenemos que hallar (q) por ende despejamos:
+  tenemos que hallar (q) entonces despejamos:
   1/q = (p-f)/(pf)
   q = (p*f)/(p-f)
 """
